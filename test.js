@@ -1,3 +1,3 @@
 function proba (){
-    console.log();
+    console.log('nesto');
 }

@@ -2,7 +2,7 @@ let variabla = 1245;
 let nekistring = `svasta nesto ${variabla}
                   asdsdsa
                   "adsadasdas" \`
-                  asdasdas
+                  asdasdasaaaaaaaaaaa
                   `;
 let nekidrugistring = "svasta nesto " + variabla + "\n asdsdsa \"adsadasda\"  asdasdas";
 let str = '""""""""""""""';
