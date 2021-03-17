@@ -17,7 +17,7 @@ promise
   console.log(rez);
   rez.prezime = 'Stamenkovic';
   if (rez.age > 30) {
-    rez.error = 'Stariji od 30';
+    rez.error = 'mnogo star!';
     throw rez;
   } else {
     return rez;
