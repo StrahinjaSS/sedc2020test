@@ -21,9 +21,9 @@
 .del-container input {
   margin-bottom: 10px;
 }
-#DelBtn {
+/* #DelBtn {
   margin-bottom: 10px;
-}
+} */
 .list {
-  width: 100%;
+  width: 90%;
 }

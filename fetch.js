@@ -54,7 +54,7 @@ function postSlider() {
     url: 'Ovo je url za onaj button ispod teksta na slajderu',
   }
   let req = new Request(baseUrl + '/api/Slider', 
-        ({ method: 'POST',
+        ({ method: 'PUT',
            headers: {'Content-Type': 'application/json',},
            body: JSON.stringify(data) 
           }));
@@ -72,10 +72,10 @@ btn.addEventListener('click', postSlider);
 
 function editSlider(id) {
   const data = {
-    imageurl: 'editovano',
-    title: 'editovano',
-    description: 'editovano',
-    url: 'editovano',
+    imageurl: 'ja volim editovanje! :)',
+    title: 'ja volim editovanje! :)',
+    description: 'ja volim editovanje! :)',
+    url: 'ja volim editovanje! :)',
   }
   if (!id) {
     id = inputId.value;
