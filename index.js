@@ -1,10 +1,10 @@
-let variabla = 1245;
-let nekistring = `svasta nesto ${variabla}
+let nikolinaVariabla = 1245;
+let nekistring = `svasta nesto ${nikolinaVariabla}
                   asdsdsa
                   "adsadasdas" \`
                   asdasdas
                   `;
-let nekidrugistring = "svasta nesto " + variabla + "\n asdsdsa \"adsadasda\"  asdasdas";
+let nekidrugistring = "svasta nesto " + nikolinaVariabla + "\n asdsdsa \"adsadasda\"  asdasdas";
 let str = '""""""""""""""';
 console.log(nekistring);
 console.log(nekidrugistring)
