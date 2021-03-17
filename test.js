@@ -1,3 +1,3 @@
-function nista (){
-    console.log('nista');
+function proba (){
+    console.log();
 }
