@@ -1,0 +1,29 @@
+.container {
+  width: 600px;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+.form-container {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+  width: 50%;
+}
+.form-container input {
+  margin-bottom: 10px;
+}
+.del-container {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+}
+.del-container input {
+  margin-bottom: 10px;
+}
+#DelBtn {
+  margin-bottom: 10px;
+}
+.list {
+  width: 100%;
+}
