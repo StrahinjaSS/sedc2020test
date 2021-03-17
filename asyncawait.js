@@ -1,3 +1,5 @@
+//Promise 2.0
+
 async function getReviews() {
   const baseUrl = 'https://jsonplaceholder.typicode.com';
   try {
