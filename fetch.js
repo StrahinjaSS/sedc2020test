@@ -119,3 +119,4 @@ let delBtn = document.querySelector('#DelBtn');
 delBtn.addEventListener('click', function() {
   deleteSlajder();
 });
+// neki komentar
