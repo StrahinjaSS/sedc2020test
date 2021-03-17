@@ -1,4 +1,3 @@
-/*
 let promise = new Promise((resolve, reject) => {
   // cekamo da stignu rezultati
   let rezultat = { name: 'Strahinja', age: 29 };
@@ -33,4 +32,4 @@ promise
 .catch(err => {
   console.log(err.error);
   return err;
-}); */
+});
